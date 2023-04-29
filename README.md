@@ -1,16 +1,18 @@
-<p align="center">
-____Welcome____
+![](https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Python.gif)
+
+
+
+🌺Welcome🌺
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+
 
 
 AUTHOR:
 <p align="center">
-ANONYMOUS U7P4L
+U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
 
-</br>
-<p align="center">
-      ⚡😺RANDOM OLD ID CLONING COMMAND😸
 
-</p>
   
 #### INSTALL TOOL ON TERMUX
 ```python
@@ -23,16 +25,22 @@ ANONYMOUS U7P4L
  pip install futures
  pip install mechanize
  cd $HOME 
- git clone https://github.com/ANONYMOUS-U7P4L/Public.git
-```
-#### RUN SCRIPT
-```python
- cd Public
+ rm -rf ALL_IN_ONE
+ git clone --depth=1 https://github.com/U7P4L-IN/ALL_IN_ONE.git
 
- python 2K.py
+ cd ALL_IN_ONE
+
+ ls
+
+ python ALL.py
 ```
+#### Screenshots:
+
+<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/IMG_20230406_182923.jpg">
 
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ANONYMOUS-U7P4L&repo=Public&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ALL_IN_ONE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+### Thanks For Visiting 🧡🧡

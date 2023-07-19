@@ -26,9 +26,7 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 
  python ALL.py
 ```
-<p align="center"><img src="https://github.com/U7P4L-IN/ALL_IN_ONE/blob/main/image/ALL_IN_ONE%7B10_TOOLS%7D.png">
-
-#### Screenshots:
+<p align="center"><img src="https://github.com/U7P4L-IN/ALL_IN_ONE/blob/main/image/carbon%20(5).png">
 
 <p align="center"><img src="https://github.com/U7P4L-IN/ALL_IN_ONE/blob/main/Screenshot_2023-07-13-15-48-50-663_com.termux-01.jpeg">
 

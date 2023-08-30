@@ -7,23 +7,17 @@ All In One [10 Tool] Can Work On Different Devices Because It Is A Multi-purpose
   
 #### INSTALL TOOL ON TERMUX
 ```python
- pkg update
- pkg upgrade
- pkg install python
+ apt update && apt upgrade -y
+
  pkg install git
- pip install requests
- pip install bs4
- pip install futures
- pip install mechanize
- cd $HOME 
- rm -rf ALL_IN_ONE
+
+ pkg install python
+
+ rm -rf ALL-IN-ONE
  git clone --depth=1 https://github.com/U7P4L-IN/ALL_IN_ONE.git
-
- cd ALL_IN_ONE
-
+ cd ALL-IN-ONE
  ls
-
- python ALL.py
+ python3 ALL.py
 ```
 <p align="center"><img src="https://github.com/U7P4L-IN/ALL_IN_ONE/blob/main/image/carbon%20(5).png">
 

@@ -19,7 +19,7 @@ All In One [10 Tool] Can Work On Different Devices Because It Is A Multi-purpose
  ls
  python3 ALL.py
 ```
-<p align="center"><img src="https://github.com/U7P4L-IN/ALL_IN_ONE/blob/main/image/carbon%20(5).png">
+<p align="center"><img src="https://github.com/U7P4L-IN/ALL-IN-ONE/blob/main/image/IMG_20230830_110802_493.jpg">
 
 <p align="center"><img src="https://github.com/U7P4L-IN/ALL_IN_ONE/blob/main/image/XRecorder_25072023_200406-01.jpeg">
 

@@ -1,8 +1,7 @@
 <p align="center"><img src="https://github.com/U7P4L-IN/ALL_IN_ONE/blob/main/image/ALL_IN_ONE%7B10_TOOLS%7D.png">
-
-AUTHOR:
+  
 <p align="center">
-U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
+All In One [10 Tool] Can Work On Different Devices Because It Is A Multi-purpose Program. Using This Tool, You Can Brute Force Attack On Facebook, Install Wifi Hacking Tool,Install Install Atarmux Setup Tools, You Can Install Tarmux Theme In Your Device Easily<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
 
 
   

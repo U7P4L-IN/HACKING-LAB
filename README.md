@@ -14,7 +14,7 @@ All In One [10 Tool] Can Work On Different Devices Because It Is A Multi-purpose
  pkg install python
 
  rm -rf ALL-IN-ONE
- git clone --depth=1 https://github.com/U7P4L-IN/ALL_IN_ONE.git
+ git clone --depth=1 https://github.com/U7P4L-IN/ALL-IN-ONE.git
  cd ALL-IN-ONE
  ls
  python3 ALL.py

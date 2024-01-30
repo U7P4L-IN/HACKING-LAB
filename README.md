@@ -72,8 +72,9 @@ And some other python packages
 <hr>
 
 # Menu
-<img src="https://github.com/U7P4L-IN/HACKING-LAB/blob/master/image/Screenshot%20from%202024-01-28%2016-43-02.png" alt="HACKING LAB v1.0.6" float="center"/>
-<p align="center"><img src="https://github.com/U7P4L-IN/HACKING-LAB/blob/master/image/Screenshot_20231022-125501.png">
+<p align="center"><img src="https://github.com/U7P4L-IN/HACKING-LAB/blob/master/image/Screenshot%20from%202024-01-28%2016-43-02.png" alt="HACKING LAB v1.0.6" float="center"/>
+<p align="center"><img src="https://github.com/U7P4L-IN/HACKING-LAB/blob/master/image/photo_2024-01-30_13-48-43.jpg">
+
 ### Install Requirements (on Linux)
 
 ```python

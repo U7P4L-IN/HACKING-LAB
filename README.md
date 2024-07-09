@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HACKING%20LAB&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MALTIPAL%20HACKING%20COMMAND%20LAB%20PYTHON%20TOOLS%20BY%20U7P4L&descAlignY=51&descAlign=62)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HACKING%20LAB&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MALTIPAL%20HACKING%20COMMAND%20LAB%20PYTHON%20TOOLS%20BY%20U7P4L&descAlignY=51&descAlign=62" width="100%"/>
+</p>
 
 </p>
    <p align="center">
@@ -17,25 +18,16 @@
  <p align="center"><img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/>
 
 
-<p align="center"><img src="https://github.com/U7P4L-IN/HACKING-LAB/blob/master/image/ScreenShot_20231021215213.png">
-
-<p align="center">
-
-Hacking Lab Can Work On Different Devices Because It Is A Multi-purpose Program. Using This Tool, You Can Brute Force Attack On Facebook, Install Wifi Hacking Tool,Install Install Atarmux Setup Tools, You Can Install Tarmux Theme In Your Device Easily
+>Hacking Lab Can Work On Different Devices Because It Is A Multi-purpose Program. Using This Tool, You Can Brute Force Attack On Facebook, Install Wifi Hacking Tool,Install Install Atarmux Setup Tools, You Can Install Tarmux Theme In Your Device Easily
 
 </p>
-
 
 #### Tested On  :
 
 * Kali Linux
-
 * BlackArch Linux
-
 * Ubuntu
-
 * Kali Nethunter
-
 * Termux ( Rooted/NonRooted Devices)
 
 # ChangeLogs
@@ -45,17 +37,18 @@ Hacking Lab Can Work On Different Devices Because It Is A Multi-purpose Program.
 - [4] Added Features
 - [5] Improved Speed
 
-<img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/master/Warning.gif" float="center">
-
-### Installation
-#### Kali Linux / Ubuntu / Parrot OS :
+### INSTALL TOOL ON TERMUX
 ```python
-sudo apt-get update && apt-get install git
-git clone https://github.com/U7P4L-IN/HACKING-LAB.git
+apt update && apt upgrade -y
+pkg install git
+pkg install python
+rm -rf HACKING-LAB
+git clone --depth=1 https://github.com/U7P4L-IN/HACKING-LAB.git
 cd HACKING-LAB
-ls
-sudo python3 LAB.py
+python LAB.py
 ```
+<p align="center"><img src="./image/carbon.png">
+<p align="center"><img src="./image/demo1.jpg">
 
 # Report bugs
 If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: AnonyminHack5@protonmail.com">Gmail</a> or Open an issue via github.
@@ -71,30 +64,48 @@ And some other python packages
 
 <hr>
 
-# Menu
-<p align="center"><img src="https://github.com/U7P4L-IN/HACKING-LAB/blob/master/image/Screenshot%20from%202024-01-28%2016-43-02.png" alt="HACKING LAB v1.0.6" float="center"/>
-<p align="center"><img src="https://github.com/U7P4L-IN/HACKING-LAB/blob/master/image/photo_2024-01-30_13-48-43.jpg">
-
 ### Install Requirements (on Linux)
 
 ```python
 >> apt-get install git python3 python3-pip python python-pip
 ```
-
-### INSTALL TOOL ON TERMUX
+### Installation
+#### Kali Linux / Ubuntu / Parrot OS :
 ```python
-rm -rf HACKING-LAB
-git clone --depth=1 https://github.com/U7P4L-IN/HACKING-LAB.git
+sudo apt-get update && apt-get install git
+git clone https://github.com/U7P4L-IN/HACKING-LAB.git
 cd HACKING-LAB
 ls
-python LAB.py
+sudo python3 LAB.py
 ```
+<p align="center"><img src="./image/demo2.png">
+<p align="center"><img src="./image/demo3.png">
 
-#### Tools Languages :
+### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=HACKING-LAB&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=HACKING-LAB&title_colour=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
+</p>
 
-## ©️ Copyright Message
-Copyright © [2023-27] [U7P4L-IN]
+<h2 align="center">LICENSE</h2>
 
-All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
+**HACKING LAB**  is released under the MIT license, which grants the following permissions:
+- Commercial use
+- Modification
+- Distribution
+- Patent use
+- Private use
+
+For more convoluted language, see the [LICENSE](/LICENSE).
+</br>
+
+<h5 align="center"><b>DESCRIPTION</b></h5>
+
+
+* ©️ Copyright Message
+>> Copyright © [2023-27] [U7P4L-IN]
+>All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
+
+### Give A Star ⭐
+
+> You can also give this repository a star to show more people and they can use this repository.
